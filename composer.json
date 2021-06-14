@@ -20,7 +20,7 @@
         "illuminate/view": "^8.0",
         "php": "^7.3|^8.0",
         "ramsey/uuid": "^4.0",
-        "titasgailius/search-relations": "^1.0"
+        "titasgailius/search-relations": "^2.0"
     },
     "require-dev": {
         "doctrine/dbal": "^2.9",
